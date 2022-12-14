@@ -14,3 +14,6 @@ SafetyEducation Game Project
  
  + 결과 사진
  <img src ="https://user-images.githubusercontent.com/111097630/207515320-cca8d5e3-0523-4fbe-b19d-7a1871d9ddc6.jpg" width="200" height="400"/>
+ <img src ="https://user-images.githubusercontent.com/111097630/207516329-f56959c5-7f92-4bd0-8990-59d47b86791b.jpg" width="200" height="400"/>
+ <img src ="https://user-images.githubusercontent.com/111097630/207516448-aef62fa7-98ed-49c9-abc6-233e223676d5.jpg" width="200" height="400"/>
+ <img src ="https://user-images.githubusercontent.com/111097630/207516453-783747a8-0285-4c63-b6bc-8a4477f7da92.jpg" width="200" height="400"/>
