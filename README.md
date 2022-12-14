@@ -12,6 +12,8 @@ SafetyEducation Game Project
  Secen을 처음으로 한 다음 5번과 9번을 제외한 각 게임의 Scene을 순서대로 위치시킨 다음 Clear, Next, Fail
  GameOver, Result순으로 위치시킨다.
  
+ 유니티 버전은 2020.3.33f1입니다.
+ 
  + 결과 사진
  <img src ="https://user-images.githubusercontent.com/111097630/207515320-cca8d5e3-0523-4fbe-b19d-7a1871d9ddc6.jpg" width="200" height="400"/>
  <img src ="https://user-images.githubusercontent.com/111097630/207516329-f56959c5-7f92-4bd0-8990-59d47b86791b.jpg" width="200" height="400"/>
