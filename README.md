@@ -13,4 +13,4 @@ SafetyEducation Game Project
  GameOver, Result순으로 위치시킨다.
  
  + 결과 사진
- ![img_1](https://user-images.githubusercontent.com/111097630/207515320-cca8d5e3-0523-4fbe-b19d-7a1871d9ddc6.jpg width="200" height="400"/)
+ <img src ="https://user-images.githubusercontent.com/111097630/207515320-cca8d5e3-0523-4fbe-b19d-7a1871d9ddc6.jpg" width="200" height="400"/>
